@@ -11,7 +11,7 @@ We're here to help!
 ### `Contact Us`
 If you need support, please shoot us an email at heliogramlabs@gmail.com.
 
-Or, fill out a [Support Ticket](https://www.genome.gov/)
+Or, fill out a [Support Ticket](https://forms.gle/REAipnQaPcgJkUZf7)
 
 <br>
 
